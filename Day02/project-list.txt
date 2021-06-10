@@ -7,5 +7,10 @@ Jaime Fabián Nieto Castellanos                https://github.com/Fabian2598/Glo
 José Gustavo Velasco Oropeza			https://github.com/gus-velasco/tarea_pull_request
 Gabriel Garcia 						https://github.com/vamly123x/bootcamp_globant
 Oliver Portuguez					https://github.com/olvann/FirstProject
+Magali Díaz Hernández				https://github.com/Mc-Gui/bootcamp1
+Erick Veliz							https://github.com/EriVelk/globantBootcamp01
+Maria Fernanda Fuentes Diaz				https://github.com/ferchii1520/Prueba-Fernanda
+Francisco Javier Minajas Carbajal	https://github.com/fminajasc1000/Ejercicio001_bootcamp.git
+Magali Díaz Hernández   			https://github.com/Mc-Gui/bootcamp1
 Carlos Antonio Gonzalez Diaz		https://github.com/CarlosGonzalezDiaz/bootcamp-java-Carlos_Gonzalez
 
