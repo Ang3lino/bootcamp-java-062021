@@ -1,2 +1,3 @@
 Name 								URL 
 Luis Alfredo Solis Zuñiga					https://github.com/FreddySolis/globantbootcamp01
+Diego Martínez                              https://github.com/degorck/glbntBootcamp
