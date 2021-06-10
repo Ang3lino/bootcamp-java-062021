@@ -3,4 +3,7 @@ Luis Alfredo Solis Zuñiga					https://github.com/FreddySolis/globantbootcamp01
 Jaime Eduardo Torres Hurtado        https://github.com/eduardotorrezh/BootcampPractice01
 Diego Martínez                              https://github.com/degorck/glbntBootcamp
 Diego Uriel Jimenez Diaz			https://github.com/DiegoUDz/bootcamp
-Jaime Fabián Nieto Castellanos                                   https://github.com/Fabian2598/GlobantBootcamp
+Jaime Fabián Nieto Castellanos                https://github.com/Fabian2598/GlobantBootcamp
+José Gustavo Velasco Oropeza			https://github.com/gus-velasco/tarea_pull_request
+Gabriel Garcia 						https://github.com/vamly123x/bootcamp_globant
+
