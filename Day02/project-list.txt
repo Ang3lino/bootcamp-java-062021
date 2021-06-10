@@ -3,3 +3,4 @@ Luis Alfredo Solis Zuñiga					https://github.com/FreddySolis/globantbootcamp01
 Jaime Eduardo Torres Hurtado        https://github.com/eduardotorrezh/BootcampPractice01
 Diego Martínez                              https://github.com/degorck/glbntBootcamp
 Diego Uriel Jimenez Diaz			https://github.com/DiegoUDz/bootcamp
+Carlos Antonio Gonzalez Diaz		https://github.com/CarlosGonzalezDiaz/bootcamp-java-Carlos_Gonzalez
