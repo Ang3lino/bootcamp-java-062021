@@ -1,2 +1,3 @@
 Name 								URL 
 Luis Alfredo Solis Zuñiga					https://github.com/FreddySolis/globantbootcamp01
+Jaime Eduardo Torres Hurtado        https://github.com/eduardotorrezh/BootcampPractice01
