@@ -4,3 +4,4 @@ Jaime Eduardo Torres Hurtado        https://github.com/eduardotorrezh/BootcampPr
 Diego Martínez                              https://github.com/degorck/glbntBootcamp
 Diego Uriel Jimenez Diaz			https://github.com/DiegoUDz/bootcamp
 José Gustavo Velasco Oropeza			https://github.com/gus-velasco/tarea_pull_request
+Gabriel Garcia 						https://github.com/vamly123x/bootcamp_globant
