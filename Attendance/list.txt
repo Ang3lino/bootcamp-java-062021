@@ -7,7 +7,7 @@ Oliver Giovanny Portuguez Plata         X           X           X
 Diego Martínez                          X           X
 Diego Uriel Jimenez Diaz				X			X
 Jaime Fabián Nieto Castellanos                          x                       x
-José Gustavo Velasco Oropeza				X			X
+José Gustavo Velasco Oropeza				X			X		X
 Gabriel García 							X			X
 Magali Diaz Hernandez       X    X
 Erick Veliz								X			X			X
