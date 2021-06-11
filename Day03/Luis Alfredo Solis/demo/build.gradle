@@ -1,0 +1,21 @@
+plugins {
+	id 'java'
+	id 'application'
+}
+
+repositories {
+	mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'com.example.DemoApplication'
+        )
+    }
+ }
+
+
+application {
+    mainClass = 'com.example.DemoApplication'
+}
