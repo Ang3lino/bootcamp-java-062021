@@ -1,17 +1,19 @@
 Name								June 08		June 09		June 10		June 11		June 12		June 13		June 14		June 15		June 16		June 17		June 18		June 19		June 20		June 21		June 22		June 23		June 24		June 25
 
 Ad Humberto Quintero Limon				X			X
-Jaime Eduardo Torres Hurtado			X			X
-Luis Alfredo Solis Zuñiga						X
-Oliver Giovanny Portuguez Plata         X           X
+Jaime Eduardo Torres Hurtado			X			X             X
+Luis Alfredo Solis Zuñiga							X		X
+Oliver Giovanny Portuguez Plata         X           X           X
 Diego Martínez                          X           X
-Diego Uriel Jimenez Diaz				X			X
+Diego Uriel Jimenez Diaz				X			X			X
 Jaime Fabián Nieto Castellanos                          x                       x
-José Gustavo Velasco Oropeza				X			X
+José Gustavo Velasco Oropeza				X			X		X
 Gabriel García 							X			X
-Erick Veliz								X			X
+Magali Diaz Hernandez       X    X
+Erick Veliz								X			X			X
+Francisco Javier Minajas Carbajal		X			X
 Maria Fernanda Fuentes Diaz					X		X
-Magali Diaz Hernandez                   X           X
 Francisco Javier Minajas Carbajal		X           X
-Zureyma Quetzaili Manrique Santiago :)  X           X
+Zureyma Quetzaili Manrique Santiago :)  X           X           X
 Carlos Antonio Gonzalez Diaz	     	X           X
+Jean Molina Matínez      x        x     x           x
