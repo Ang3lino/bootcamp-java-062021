@@ -1,0 +1,7 @@
+Create a multi-project, two projects, one depending on the other.
+
+Create a Fat Jar.
+
+Generate a gradle project with https://start.spring.io/ with a spring-boot dependency.
+
+Add the sonar plugin to a gradle project.
