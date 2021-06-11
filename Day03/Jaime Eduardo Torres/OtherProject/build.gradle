@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'me.eduardotorrezh.OtherProject'
+        )
+    }
+ }
+
+
+application {
+    mainClass = 'me.eduardotorrezh.OtherProject'
+}
