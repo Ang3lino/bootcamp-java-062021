@@ -1,2 +1,0 @@
-rootProject.name = 'spring_project'
-include('dependent_project')

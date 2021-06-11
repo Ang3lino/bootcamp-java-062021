@@ -1,3 +1,2 @@
 rootProject.name = 'Gustavo_Velasco'
-include('spring-project')
 include('subproject')
