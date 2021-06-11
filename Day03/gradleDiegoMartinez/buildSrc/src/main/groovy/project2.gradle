@@ -1,0 +1,7 @@
+
+
+plugins {
+    id 'project1' 
+    id 'java-library' 
+}
+
