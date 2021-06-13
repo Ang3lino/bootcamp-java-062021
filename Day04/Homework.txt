@@ -1,0 +1,27 @@
+Let’s check how the different implementations perform:
+ArrayList vs LinkedList when:
+Add a new element
+Remove an element from the middle
+Insert in the middle a new element
+Iterate over the whole collection
+Sorting the collection
+HashMap vs TreeMap when:
+Put a new element
+Find an element by key
+Remove an element by key
+Iterate over the whole entries
+Outputs: Class by action and readme with your findings
+
+HackeRank:
+Hash Tables: Ransom Note.
+Java Arraylist 
+Java List
+Java Map 
+Java Hashset 
+Java Sort 
+
+Outputs: Class with your solution
+
+
+
+

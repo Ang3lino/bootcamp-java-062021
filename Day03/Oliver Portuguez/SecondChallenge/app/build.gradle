@@ -1,0 +1,40 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+application{
+    mainClass = 'hello.HelloWorld'
+}
+
+dependencies {
+    implementation project(':util')
+
+}
+// creación del fatJar por medio de una tarea
+task customFat(){
+    jar {
+        manifest {
+            attributes(
+                    'Main-Class': 'hello.HelloWorld'
+            )
+    }
+    baseName = 'FatJar'
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+ }
+}
+
+//integración del plugin sonar siguiendo la documentación de gradle https://plugins.gradle.org/plugin/org.sonarqube
+
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3"
+  }
+}
+
+apply plugin: "org.sonarqube"
