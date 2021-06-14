@@ -1,5 +1,3 @@
-package B;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Iterator;

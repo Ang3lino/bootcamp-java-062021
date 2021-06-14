@@ -1,5 +1,3 @@
-package A;
-
 import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Collections;
