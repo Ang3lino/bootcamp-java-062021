@@ -1,0 +1,61 @@
+Archivo .README
+Son documentos de texto que son utilizados para proporcionar a los usuarios información útil y detalles específicos sobre determinadas aplicaciones instaladas en el sistema. La mayoría de estos archivos consisten de los datos que se refieren a rutas de directorios y registros de instalación almacenados del programa
+
+Big -O
+Se utiliza para determinar la complejidad de un algoritmo, podemos medir su rendimiento de uso en el disco duro, recursos y tiempo de ejecución. Identifica el peor escenario donde el algoritmo llegue a su más alto punto de exigencia
+
+Anadir nuevo elemento
+ArrayList
+Simplemente extienda la longitud en uno e inserte el elemento al final.
+Para poder insertar un elemento dentro de un ArrayList deberemos de saber que los elementos que hay dentro del ArrayList están numerados
+
+LinkedList
+Solo es necesario actualizar un puntero.
+
+Remover un elemento del medio
+ArrayList
+Se requiere un ArrayList para copiar una parte de sí mismo y reinicializar la matriz sin un valor, desplazando la parte copiada hacia la izquierda
+
+LinkedList
+Funciona desvinculando los punteros anteriores y posteriores del elemento que se va a eliminar. Después de eso, el elemento anterior está vinculado al siguiente en la línea. De esta forma, el elemento antiguo queda “varado” y sin referencias a él, el GC se encarga de ello
+
+Insertar un nuevo elemento del medio
+ArrayList
+Debe dividir la matriz en el lugar que desea insertar: copie todo después de ese punto y muévalo hacia la derecha, agregando el nuevo elemento en el índice
+
+LinkedList
+Solo apunta el head (al principio) y tail (Al final) punteros de los elementos anteriores y posteriores al nuevo, respectivamente.
+
+Revisar la lista
+ArrayList
+Se hace con un simple for bucle que va desde 0 a size-1 y verificar si el elemento en el índice actual coincide con el valor dado
+
+LinkedList
+Tiene que recorrer la lista saltando de un elemento al siguiente con el uso de punteros. En última instancia, el resultado es el mismo: visitando cada elemento, uno por uno, hasta encontrar el buscado
+
+Ordenar la lista
+ArrayList
+Crearemos una clase vacía con el nombre que queramos, esta clase deberá implementar la interfaz Comparator. Esto nos obliga a crear el método compareTo.
+
+LinkedList
+Si necesitamos ordenarla de mayor a menor tenemos que utilizar un objeto Comparator. Estos objetos nos permiten definir la condición de orden.
+
+
+
+Poner un nuevo elemento
+HashMap
+Mediante el método put agregamos un elemento a la colección de tipo HashMap.
+put (Object KEY, String VALUE)
+
+Encontrar un elemento con clave
+Llamamos al método 'get' y le pasamos la clave a buscar, si dicha clave no existe en el mapa se nos retorna el valor 'null'
+
+Remover un elemento con clave
+Para eliminar un elemento de la colección debemos hacer uso del método 'remove', pasamos una clave del mapa
+remove (Object KEY)
+
+Revisar las entradas
+Si queremos verificar si una determinada clave existe en el mapa lo hacemos mediante el método 'containsKey'
+
+TreeMap
+Es igual que el HashMap solo que el TreeMap devuelve los valores de manera ascendente.
